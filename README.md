@@ -20,13 +20,11 @@
 
 **Vercel (via GitHub)**
 1. Create a GitHub repo (e.g. `green-cup-cafe-yourname`) and push files.
-2. Connect repo to Vercel (https://vercel.com/new) and deploy.
 
-## Assignment parts (ready to paste into the form)
 
 ### Part 1 — Website
-- Live URL: *(deploy and paste this link here)*  
-- GitHub/ZIP: *(upload repo or ZIP and paste link here)*
+- Live URL: https://green-cup-cafe.netlify.app/ 
+- GitHub/ZIP: https://github.com/nethra317/GreenCupCafe.git
 
 ### Part 2 — SEO Basics
 **Suggested Homepage Titles (3):**
@@ -40,8 +38,7 @@
 - organic coffee beans  
 - latte art café  
 - specialty coffee drinks
-
-> Note: The actual `<title>` and meta description are present in `index.html`. Use the alternate titles within page content or test them in A/B tests.
+- Impo: The actual `<title>` and meta description are present in `index.html`. Use the alternate titles within page content or test them in A/B tests.
 
 ### Part 3 — Social Media & Digital Marketing
 **Instagram caption (≤ 30 words):**  
